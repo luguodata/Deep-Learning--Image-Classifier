@@ -7,6 +7,7 @@ Project mainly about two parts.
 2) Python application which runs from the command line.
 
 Files:
+
 Image_Classifier_Application.ipynb -- Jupyter notebook of Training and testing image classifier.
 
 Image_Classifier_Application.html  -- Html file of Training and testing image classifier.
