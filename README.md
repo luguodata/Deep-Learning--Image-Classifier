@@ -1,12 +1,12 @@
 # Deep-Learning--Image-Classifier
 This a project about an image classifier application via deep learning with PyTorch. It is from Udacity Data Science Nano-Degree program.
 
-## Getting Started
+## Project Outline
 Project mainly about two parts.
 1) Training implementation on Jupyter notebook.
 2) Python application which runs from the command line.
 
-Files:
+## Files
 
 Image_Classifier_Application.ipynb -- Jupyter notebook of Training and testing image classifier.
 
@@ -30,6 +30,3 @@ Usage:
 
 Functions.py -- Functions and classes relating to data loading, image processing and model building.
 
-### Prerequisites
-
-### Installing
