@@ -17,7 +17,7 @@ Usages:
 * python train.py data_directory
 * It will print out training loss, validation loss, and validation accuracy as the network trains
 * Set directory to save checkpoints: python train.py data_dir --save_dir save_directory
-* Choose architecture: python train.py data_dir --arch "vgg16"
+* Choose architecture: python train.py data_dir --arch "vgg16_bn"
 * Set hyperparameters: python train.py data_dir --learning_rate 0.005 --hidden_units 512 --epochs 12
 * Use GPU for training: python train.py data_dir --gpu
 
